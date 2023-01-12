@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Rodney van den Brink",
+        "comp": "sports",
+        "cn": "IKS",
+        "glider": "G 102 Astir CS",
+        "flarm": [
+            "D00C8C"
+        ]
+    },
+    {
+        "name": "David Collins",
+        "comp": "sports",
+        "cn": "20F",
+        "glider": "ASW 20",
+        "flarm": [
+            "DF032B"
+        ]
+    },
+    {
+        "name": "Jenny Ganderton",
+        "comp": "sports",
+        "cn": "BM",
+        "glider": "LS 4",
+        "flarm": [
+            "D01038"
+        ]
+    },
+    {
+        "name": "Sid Nankivell",
+        "comp": "sports",
+        "cn": "WUD",
+        "glider": "LS 3",
+        "flarm": [
+            "DD4F44"
+        ]
+    },
+    {
+        "name": "Bernie Sizer",
+        "comp": "sports",
+        "cn": "VH",
+        "glider": "PIK-20 B",
+        "flarm": [
+            "DD506D"
+        ]
+    },
+    {
+        "name": "Robert Smits",
+        "comp": "sports",
+        "cn": "GA",
+        "glider": "Cirrus",
+        "flarm": [
+            "DD5041"
+        ]
+    },
+    {
+        "name": "The Sniffer",
+        "comp": "sports",
+        "cn": "ZAW",
+        "glider": "PW-5",
+        "flarm": [
+            "DDB456"
+        ]
+    }
+]

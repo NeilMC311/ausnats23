@@ -1,0 +1,12 @@
+{
+    "comps": [
+        {
+            "id": "sports",
+            "name": "2023 Nationals Sports Class",
+            "short": "Sports Class",
+            "task": "https://www.soaringspot.com/en_gb/2023-australian-national-championships-open-18m-sport/results/sports",
+            "colour": "#BF211E"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/ausnats23/main/gliders.json"
+}
